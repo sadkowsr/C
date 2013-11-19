@@ -1,0 +1,49 @@
+1. przenieść funkcję simpson na górę pliku (ma to być pierwsza metoda),
+2. zamienić wszystkie liczby float na double,
+3. sformatować metodę integral,
+4. dodać plik math.h i wykorzystać zmienną M_PI,
+5. stworzyć funkcję cube na podstawie funkcji square, liczącą trzecią potęgę x,
+6. podmienić wywołanie funkcji square podczas liczenia jej całki,
+7. zamienić si na subinterval w funkcji integral.
+8. popraw literówkę w "funkcji"
+
+/sth  or ?sth       //wyszukiwnie w przód/tył
+p // wkleja tekst ze schowka vima
+
+:1,20y :1,20d   (kopiuje / usuwa linie od 1 do 20)
+
+:2,4s/foo/bar/g (zastępuje wszystkie wystąpienia foo z bar w liniach od 2 do 4)
+
+uu     // przywrócenie zmian
+
+ustawić , policzyc liczbe linni gg=9
+
+gg=G     // duże G że to samego dołu
+
+C-W C-V | :vsplit (dzieli ekran na pół w pionie )
+
+:! pwd (wywołuje polecenie pwd)
+
+
+!! pwd (wstawia wynik pwd do pliku)
+
+
+% (przeskakuje pmiedzy pasującymi {}/()/[])
+`` // przesadzkuje  do osatnio edytowanej linii)
+
+
+:make (wywołuje polecenie make)
+
+
+CTRL+W   (+Strzałka) przesunie nas do innego okna)
+CTRL+ + ( zmiana szerokości)
+
+
+dw (usuwa najbliższe słowo)
+
+rznak (zasttępuje bieżący znak przez znak)
+xp (zamienia kolejność dwóch następnych znaków)
+
+u | C-R (undo/redo)
+
+c-p | C-n  (dopełnienia słów)

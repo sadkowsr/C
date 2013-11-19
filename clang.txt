@@ -1,0 +1,6 @@
+clang nie jest dużo wolniejszy
+i posiada obsługe w pelni
+
+
+bardzo dobre komunikaty o błędach
+
